@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "product_name": "Jeans Pria Denim",
+    "city": "Jakarta Pusat",
+    "product_price": 100000,
+    "product_image": "https://i.ibb.co/RDMZXS9/jeans1.jpg",
+    "product_desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla earum quas accusantium esse aspernatur ab maxime sequi dolores commodi distinctio soluta, sunt nostrum ratione. Architecto reiciendis minima ab libero repellat."
+  },
+  {
+    "id": 2,
+    "product_name": "Off White Over Tee",
+    "city": "Jakarta Selatan",
+    "product_price": 120000,
+    "product_image": "https://i.ibb.co/jbxqrSc/offwhite.jpg",
+    "product_desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla earum quas accusantium esse aspernatur ab maxime sequi dolores commodi distinctio soluta, sunt nostrum ratione. Architecto reiciendis minima ab libero repellat."
+  },
+  {
+    "id": 3,
+    "product_name": "TSHIRT DEADSTOCK JSD",
+    "city": "Bandung",
+    "product_price": 90000,
+    "product_image": "https://i.ibb.co/HNp5f40/tshirtjsd.jpg",
+    "product_desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla earum quas accusantium esse aspernatur ab maxime sequi dolores commodi distinctio soluta, sunt nostrum ratione. Architecto reiciendis minima ab libero repellat."
+  },
+  {
+    "id": 4,
+    "product_name": "FILA Voyager Sweatshirt",
+    "city": "Surabaya",
+    "product_price": 300000,
+    "product_image": "https://i.ibb.co/px9FXNf/fila.jpg",
+    "product_desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla earum quas accusantium esse aspernatur ab maxime sequi dolores commodi distinctio soluta, sunt nostrum ratione. Architecto reiciendis minima ab libero repellat."
+  },
+  {
+    "id": 5,
+    "product_name": "Crewneck Lorem Ipsum",
+    "city": "Jakarta Pusat",
+    "product_price": 140000,
+    "product_image": "https://i.ibb.co/hRt0P7q/tshirt2.jpg",
+    "product_desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla earum quas accusantium esse aspernatur ab maxime sequi dolores commodi distinctio soluta, sunt nostrum ratione. Architecto reiciendis minima ab libero repellat."
+  }
+]
